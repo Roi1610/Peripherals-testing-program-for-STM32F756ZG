@@ -23,12 +23,14 @@ Test ID, date and time the test was sent, how long the test took and the test re
 ## Installation
 
 Client side:
+
 Use a Debian-based Linux machine.
 Download the folder - linux_client
 open a terminal from the folder and run Make.
 
 
 Server side:
+
 Download the folder - stm32_server
 Inside the folder you will find another folder called peripherals_test, open it using cubemxIDE and burn the project to the STM32F756ZG card.
 
