@@ -1,5 +1,0 @@
-../my_project/Src/test_spi.c:16:16:wait_flag	24	static
-../my_project/Src/test_spi.c:29:6:HAL_SPI_TxCpltCallback	16	static
-../my_project/Src/test_spi.c:37:6:HAL_SPI_RxCpltCallback	16	static
-../my_project/Src/test_spi.c:46:6:HAL_SPI_TxRxCpltCallback	16	static
-../my_project/Src/test_spi.c:57:9:test_spi	1048	static
