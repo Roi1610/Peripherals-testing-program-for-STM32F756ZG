@@ -1,0 +1,6 @@
+../my_project/Src/test_i2c.c:19:16:wait_flag	3
+../my_project/Src/test_i2c.c:32:6:HAL_I2C_MasterTxCpltCallback	2
+../my_project/Src/test_i2c.c:38:6:HAL_I2C_MasterRxCpltCallback	2
+../my_project/Src/test_i2c.c:44:6:HAL_I2C_SlaveRxCpltCallback	2
+../my_project/Src/test_i2c.c:49:6:HAL_I2C_SlaveTxCpltCallback	2
+../my_project/Src/test_i2c.c:56:9:test_i2c	13

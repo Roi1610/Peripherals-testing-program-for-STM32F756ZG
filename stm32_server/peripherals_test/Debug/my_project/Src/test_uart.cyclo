@@ -1,0 +1,4 @@
+../my_project/Src/test_uart.c:21:6:HAL_UART_TxCpltCallback	3
+../my_project/Src/test_uart.c:27:6:HAL_UART_RxCpltCallback	3
+../my_project/Src/test_uart.c:33:16:wait_flag	3
+../my_project/Src/test_uart.c:47:9:test_uart	11

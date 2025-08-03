@@ -1,0 +1,2 @@
+../my_project/Src/test_adc.c:15:6:HAL_ADC_ConvCpltCallback	16	static
+../my_project/Src/test_adc.c:24:9:test_adc	32	static
